@@ -58,6 +58,12 @@ Un délai de quatres semaines est alloué pour le travail d'analyse avant la pr�
 ### 2. **Outils de gestion des projets**
    - **Jupyter Notebook** : Pour créer un notebook interactif permettant d'effectuer l'analyse, de visualiser les résultats, et d'expliquer le processus de manière détaillée.
    - **PowerPoint** : Pour la présentation des résultats et des analyses dans un support visuel à destination du responsable commercial.
+     **exemples**
+     ![image](https://github.com/user-attachments/assets/61ed5b37-19da-4cd2-86fe-221395d038b1)
+
+     ![image](https://github.com/user-attachments/assets/6baed9d3-eda9-4964-a734-3b19eba4125b)
+
+
 
 ### 3. **Gestion de version**
    - **Git** : Pour gérer le versionnage du code et des analyses réalisées dans le projet.
