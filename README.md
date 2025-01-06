@@ -23,7 +23,7 @@ L'analyse se découpera en deux parties :
 
 Un délai de quatres semaines est alloué pour le travail d'analyse avant la présentation des résultat devant le responsable commercial.
 
-## Compétences mobilisées
+## Compétences Acquises
 
 ### 1. **Analyse de données avec séries temporelles**
    - **Objectif** : Mesurer l’évolution du chiffre d'affaires au cours du temps.
